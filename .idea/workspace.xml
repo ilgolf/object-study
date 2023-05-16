@@ -5,33 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265c3508-4ee6-48ea-8cbc-17ed7e35b2fc" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter01/ticket/Audience.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter01/ticket/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter01/ticket/Invitation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter01/ticket/Theater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter01/ticket/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter01/ticket/TicketOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter01/ticket/TicketSeller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter01/ticket/AudienceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter01/ticket/TheaterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/utils/TestAudienceUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/utils/TestBagUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/utils/TestInvitationUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/utils/TestTicketOfficeUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/utils/TestTicketSellerUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/movie/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/movie/DiscountCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/movie/DiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/movie/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/movie/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/movie/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/movie/Screening.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/pricing/AmountDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/pricing/NoneDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/pricing/PercentDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/pricing/PeriodCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/pricing/SequenceCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chapter2-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chapter2-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chapter2-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chapter2-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chapter2-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chapter2-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chapter2-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chapter2-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter02/movie/MovieTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter02/utils/TestMovieUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/object/chapter01/ticket/TheaterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter01/ticket/TheaterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/object/utils/TestAudienceUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter01/utils/TestAudienceUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/object/utils/TestBagUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter01/utils/TestBagUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/object/utils/TestInvitationUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter01/utils/TestInvitationUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/object/utils/TestTicketOfficeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter01/utils/TestTicketOfficeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/object/utils/TestTicketSellerUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter01/utils/TestTicketSellerUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +89,8 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
@@ -98,65 +104,89 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.object.chapter02" />
       <recent name="com.object.utils" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.object.chapter01.ticket" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TheaterTest.enter">
-    <configuration name="TheaterTest.enter" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;com.object.chapter01.ticket.TheaterTest.enter&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="TheaterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MovieTest.test3">
+    <configuration name="MovieTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="object.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.object.chapter01.ticket.*" />
+          <option name="PATTERN" value="com.object.chapter02.movie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.object.chapter01.ticket" />
-      <option name="MAIN_CLASS_NAME" value="com.object.chapter01.ticket.TheaterTest" />
+      <option name="PACKAGE_NAME" value="com.object.chapter02.movie" />
+      <option name="MAIN_CLASS_NAME" value="com.object.chapter02.movie.MovieTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheaterTest.enter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MovieTest,test1 and 1 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="object.test" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="com.object.chapter02.movie.MovieTest,test1" />
+        <pattern testClass="com.object.chapter02.movie.MovieTest,test2" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="object.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.object.chapter01.ticket.*" />
+          <option name="PATTERN" value="com.object.chapter02.movie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.object.chapter01.ticket" />
-      <option name="MAIN_CLASS_NAME" value="com.object.chapter01.ticket.TheaterTest" />
-      <option name="METHOD_NAME" value="enter" />
+      <option name="PACKAGE_NAME" value="com.object.chapter02.movie" />
+      <option name="MAIN_CLASS_NAME" value="com.object.chapter02.movie.MovieTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="object.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.object.chapter02.movie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.object.chapter02.movie" />
+      <option name="MAIN_CLASS_NAME" value="com.object.chapter02.movie.MovieTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="object.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.object.chapter02.movie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.object.chapter02.movie" />
+      <option name="MAIN_CLASS_NAME" value="com.object.chapter02.movie.MovieTest" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -164,9 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TheaterTest.enter" />
-        <item itemvalue="JUnit.TheaterTest" />
-        <item itemvalue="Gradle.TheaterTest.enter" />
+        <item itemvalue="JUnit.MovieTest.test3" />
+        <item itemvalue="JUnit.MovieTest" />
+        <item itemvalue="JUnit.MovieTest,test1 and 1 more" />
+        <item itemvalue="JUnit.MovieTest.test2" />
+        <item itemvalue="JUnit.MovieTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +215,11 @@
       <workItem from="1683534913919" duration="617000" />
       <workItem from="1683543453159" duration="1718000" />
       <workItem from="1683629708429" duration="4835000" />
+      <workItem from="1683866260629" duration="24481000" />
+      <workItem from="1683986979385" duration="10129000" />
+      <workItem from="1684046404587" duration="5852000" />
+      <workItem from="1684147959882" duration="1796000" />
+      <workItem from="1684234604283" duration="7067000" />
     </task>
     <servers />
   </component>
@@ -194,7 +231,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

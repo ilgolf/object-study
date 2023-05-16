@@ -1,4 +1,4 @@
-package com.object.utils;
+package com.object.chapter01.utils;
 
 import com.object.chapter01.ticket.Bag;
 

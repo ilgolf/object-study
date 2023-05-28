@@ -625,3 +625,4 @@ public abstract class DefaultDiscountPolicy implements DiscountPolicy {
 이제 NonDiscountPolicy가 DiscountPolicy 인터페이스를 구현하도록 변경하면 개념적인 혼란과 결합을 제거할 수 있다.
 
 ![img_1.png](img_1.png)
+

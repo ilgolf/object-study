@@ -4,38 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="265c3508-4ee6-48ea-8cbc-17ed7e35b2fc" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/movie/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/movie/DiscountCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/movie/DiscountPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/movie/Money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/movie/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/movie/Reservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/movie/Screening.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/pricing/AmountDiscountPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/pricing/NoneDiscountPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/pricing/PercentDiscountPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/pricing/PeriodCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/pricing/SequenceCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chapter2-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chapter2-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chapter2-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chapter2-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chapter2-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chapter2-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chapter2-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chapter2-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter02/movie/MovieTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter02/utils/TestMovieUtils.java" afterDir="false" />
+    <list default="true" id="265c3508-4ee6-48ea-8cbc-17ed7e35b2fc" name="Changes" comment="2주차">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter04/money/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter04/step01/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter04/step01/DiscountCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter04/step01/DiscountConditionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter04/step01/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter04/step01/MovieType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter04/step01/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter04/step01/ReservationAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter04/step01/Screening.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/object/chapter01/ticket/TheaterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter01/ticket/TheaterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/object/utils/TestAudienceUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter01/utils/TestAudienceUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/object/utils/TestBagUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter01/utils/TestBagUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/object/utils/TestInvitationUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter01/utils/TestInvitationUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/object/utils/TestTicketOfficeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter01/utils/TestTicketOfficeUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/object/utils/TestTicketSellerUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/object/chapter01/utils/TestTicketSellerUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/object/chapter02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/object/chapter02/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +51,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -104,6 +85,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.object.chapter04.step01" />
       <recent name="com.object.chapter02" />
       <recent name="com.object.utils" />
     </key>
@@ -219,8 +201,19 @@
       <workItem from="1683986979385" duration="10129000" />
       <workItem from="1684046404587" duration="5852000" />
       <workItem from="1684147959882" duration="1796000" />
-      <workItem from="1684234604283" duration="7067000" />
+      <workItem from="1684234604283" duration="7317000" />
+      <workItem from="1684370185605" duration="1781000" />
+      <workItem from="1684408686562" duration="2421000" />
+      <workItem from="1685260047444" duration="4851000" />
     </task>
+    <task id="LOCAL-00001" summary="2주차">
+      <created>1684246880934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684246880934</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,5 +241,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2주차" />
+    <option name="LAST_COMMIT_MESSAGE" value="2주차" />
   </component>
 </project>

@@ -1,7 +1,7 @@
 package com.object.chapter01.ticket;
 
-import com.object.utils.TestAudienceUtils;
-import com.object.utils.TestTicketSellerUtils;
+import com.object.chapter01.utils.TestAudienceUtils;
+import com.object.chapter01.utils.TestTicketSellerUtils;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
